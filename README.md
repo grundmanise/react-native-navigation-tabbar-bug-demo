@@ -20,4 +20,7 @@ npm install
 
 2. Set your Simulator to live reload changes `⌘`+`d`  (`cmd`+`d`) => `Enable Live Reload`
 
+### NOTE:
+There are 5000 elements on the 1st tab, please give some time for them to render. It is solely for the demontration of the bug.
+
 
